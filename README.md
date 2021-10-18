@@ -28,10 +28,10 @@ The model classifies the customers based on its category by using knn algorithm.
    
    2.) For windows you can search Anaconda Navigator in search bar.
    
-You can use jupyter notebook or spyder for running the code.
+3. You can use jupyter notebook or spyder for running the code.
+ 
+4. Build model using KNN after normalizing the data and the neighbours will be choosen based on square root of columns.
 
-Build model using KNN after normalizing the data and the neighbours will be choosen based on square root of columns.
-
-After building the model evalute using confusion matrix and measure accuracy using accuracy score.
+5. After building the model evalute using confusion matrix and measure accuracy using accuracy score.
   
   
