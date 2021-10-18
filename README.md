@@ -23,7 +23,6 @@ The model classifies the customers based on its category by using knn algorithm.
 
       ```
       anaconda-navigator
-      
       ```
    This will open anaconda-navigator in linux.
    
