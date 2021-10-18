@@ -8,10 +8,10 @@ The model classifies the customers based on its category by using knn algorithm.
 
 ### Features
 
-Removing non null values.
-Performing Exploratory Data Analysis.
-Converting categorical data into binary catergorical data.
-Normalizing data to make it scale free and unitless.
+1. Removing non null values.
+2. Performing Exploratory Data Analysis.
+3. Converting categorical data into binary catergorical data.
+4. Normalizing data to make it scale free and unitless.
 
 
 ## Steps to run this project
@@ -21,7 +21,9 @@ Normalizing data to make it scale free and unitless.
 2. 
    1.) Open terminal, and type
 
-      ```anaconda-navigator
+      ```
+      anaconda-navigator
+      
       ```
    This will open anaconda-navigator in linux.
    
